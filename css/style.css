@@ -1,0 +1,14 @@
+/*
+    Here your will use class "isMobileClass" to insert your styles if the user use mobile device IOS or Android etc..
+*/
+.isMobileClass{
+    /* Put your styles here */
+}
+
+.isMobileClass header{
+    /* target the headeer component for Edit */
+}
+
+.isMobileClass footer{
+    /* target the footer component for Edit */
+}
